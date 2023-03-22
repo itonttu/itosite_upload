@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>伊藤ベジタブルファーム</title>
+<!-- TemplateEndEditable -->
+<link href="../common.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+
+<body>
+
+<div id="container">
+
+	<div id="header">
+	<p><img src="../images/ロゴ.png" width="392" height="29" alt=""/><br></p>
+    </div>
+    
+	<div id="header2">
+    <p><img src="../images/Subtitle.jpg" width="262" height="19" alt=""/></p>
+    </div>
+
+	<div id="navi">
+	<ul>
+	<li><a href="#"><img src="../images/home.jpg" width="52" height="15" alt=""/></a></li>
+	<li><a href="#"><img src="../images/noen.jpg" width="72" height="15" alt=""/></a></li>
+	<li><a href="../saiyo.html"><img src="../images/saiyo.jpg" width="72" height="15" alt=""/></a></li>
+    <li><a href="#"><img src="../images/toiawase.jpg" width="88" height="13" alt=""/></a></li>
+	
+	</ul>
+	</div>
+	<!-- TemplateBeginEditable name="テンプレート" -->
+	<div id="main">
+	  <p><img src="../PHOTO/川上村top.jpg" width="615" height="410" alt=""/></p>
+    </div>
+	<!-- TemplateEndEditable -->
+	<div id="footer">
+	<p><img src="../images/copy.jpg" width="232" height="20" alt=""/></p>
+	</div>
+
+</div>
+
+</body>
+</html>

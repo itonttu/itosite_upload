@@ -1,0 +1,56 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+#container{margin:0 auto;
+width:960px;}
+
+#header{width:960px;
+text-align:center;
+height:225px;
+}
+#header img{
+	margin-top:25px;}
+
+#header2{width:960px;
+text-align:center;
+height:80px;
+}
+
+#navi{width:960px;
+}
+
+#navi ul li{float:left;
+width:180px;
+list-style:none;
+padding-left:60px;
+}
+
+
+#main{
+	width: 960px;
+	clear: left;
+	text-align: center;
+}
+
+#main img{margin-top:50px;}
+
+#footer{width:960px;
+text-align:right;
+height:30px;
+margin:0 auto;
+}
+#container #main p {
+	font-family: "小塚ゴシック Pro R";
+	font-size: large;
+}
+#container table {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: large;
+}
+#A{
+	width: 960px;
+	clear: left;
+	text-align: left;
+}
